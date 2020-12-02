@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: #ffffff;
+}
+.header h3{
+    color: #D34040;
+}
+i{
+    color: #D34040;
+}
+.second-section{
+    background-color: #eeeeee;
+}
+.each{
+    text-align: center;
+}
+.footer{
+    background-color: #eeeeee;
+    min-height: 30px;
+}
+.social-links a {
+    margin-right: 32px;
+}
+.third-section{
+    min-height: 300px;
+    position: relative;
+}
+.chat-icon{
+    background-color: #D34040;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+.chat-icon img{
+    max-width: 90px;
+    display: block;
+    margin: auto;
+}
+
+
+
