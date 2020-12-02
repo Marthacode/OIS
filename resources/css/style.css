@@ -28,20 +28,8 @@ i{
     min-height: 300px;
     position: relative;
 }
-.chat-icon{
-    background-color: #D34040;
-    width: 90px;
-    height: 90px;
-    border-radius: 50%;
-    position: fixed;
-    bottom: 0;
-    right: 0;
-}
-.chat-icon img{
-    max-width: 90px;
-    display: block;
-    margin: auto;
-}
+
+
 
 
 
