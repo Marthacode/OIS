@@ -11,6 +11,12 @@ body{
 i{
     color: #D34040;
 }
+.first-section p{
+    font-size: 20px;
+}
+.first-section2{
+    max-width: 400px;
+}
 .second-section{
     background-color: #eeeeee;
 }
@@ -22,12 +28,10 @@ i{
     min-height: 30px;
 }
 .social-links a {
-    margin-right: 32px;
+    margin-right: 35px;
+
 }
-.third-section{
-    min-height: 300px;
-    position: relative;
-}
+
 
 
 
