@@ -23,6 +23,25 @@ i{
 .each{
     text-align: center;
 }
+.first-footer{
+    background-color: #e1e1e1;
+    height: 300px;
+}
+.first-footer i{
+    color: #D34040;
+    font-size: 35px;
+    margin-right: 20px;
+}
+.first-footer ul{
+    list-style-type: none;
+    padding: 0;
+}
+.first-footer a{
+    color: #D34040;
+}
+a:hover{
+    text-decoration: none;
+}
 .footer{
     background-color: #eeeeee;
     min-height: 30px;
@@ -30,6 +49,10 @@ i{
 .social-links a {
     margin-right: 35px;
 
+}
+.carousel-item img {
+    max-height: 500px;
+    object-fit: cover;
 }
 
 

@@ -1,12 +1,12 @@
 {
     "results": [
       {
-        "photo": "https://safeonline.com.ng/blog/wp-content/uploads/2020/12/phishig-1536x864.jpg",
+        "photo": "resources/images/phishing-banner.png",
         "url": "https://safeonline.com.ng/blog/2020/12/04/what-is-phishing-everything-you-need-to-know/",
         "title": "What is Phishing: Everything you need to know"
       },
       {
-        "photo": "https://safeonline.com.ng/blog/wp-content/uploads/2020/12/opay-investment.jpg",
+        "photo": "resources/images/opay-banner.png",
         "url": "https://safeonline.com.ng/blog/2020/12/03/opay-investment-is-it-legit/",
         "title": "Opay Investment is it legit?"
       }
